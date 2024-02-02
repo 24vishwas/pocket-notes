@@ -1,0 +1,9 @@
+.home{
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width:600px) {
+    .home{
+        display: block;
+    }
+}
